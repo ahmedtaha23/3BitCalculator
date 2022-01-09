@@ -8,9 +8,9 @@ In this projects, we implemeneted (both software using logisim and hardware) an 
 
 ![alt text](https://github.com/ahmedibrahim404/3BitCalculator/blob/main/Schematics/project.jpg)
 
-![alt text](https://github.com/ahmedibrahim404/3BitCalculator/blob/main/Schematics/Calculator_Schematic.png)
-
 ![alt text](https://github.com/ahmedibrahim404/3BitCalculator/blob/main/Schematics/3BitSignedNum_Calculator_Schematic.png)
+
+![alt text](https://github.com/ahmedibrahim404/3BitCalculator/blob/main/Schematics/Calculator_Schematic.png)
 
 ![alt text](https://github.com/ahmedibrahim404/3BitCalculator/blob/main/Schematics/Addition_Schematic.png)
 
