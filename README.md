@@ -6,16 +6,16 @@ In this projects, we implemeneted (both software using logisim and hardware) an 
 
 ## Screenshots
 
-![alt text](https://github.com/ahmedibrahim404/3BitCalculator/blob/main/Schematics/project.jpg raw=true)
+![alt text](https://github.com/ahmedibrahim404/3BitCalculator/blob/main/Schematics/project.jpg&raw=true)
 
-![alt text](https://github.com/ahmedibrahim404/3BitCalculator/blob/main/Schematics/Calculator_Schematic.png raw=true)
+![alt text](https://github.com/ahmedibrahim404/3BitCalculator/blob/main/Schematics/Calculator_Schematic.png&raw=true)
 
-![alt text](https://github.com/ahmedibrahim404/3BitCalculator/blob/main/Schematics/3BitSignedNum_Calculator_Schematic.png raw=true)
+![alt text](https://github.com/ahmedibrahim404/3BitCalculator/blob/main/Schematics/3BitSignedNum_Calculator_Schematic.png&raw=true)
 
-![alt text](https://github.com/ahmedibrahim404/3BitCalculator/blob/main/Schematics/Addition_Schematic.png raw=true)
+![alt text](https://github.com/ahmedibrahim404/3BitCalculator/blob/main/Schematics/Addition_Schematic.png&raw=true)
 
-![alt text](https://github.com/ahmedibrahim404/3BitCalculator/blob/main/Schematics/Subtraction_Schematic.png raw=true)
+![alt text](https://github.com/ahmedibrahim404/3BitCalculator/blob/main/Schematics/Subtraction_Schematic.png&raw=true)
 
-![alt text](https://github.com/ahmedibrahim404/3BitCalculator/blob/main/Schematics/Multiplication_Schematic.png raw=true)
+![alt text](https://github.com/ahmedibrahim404/3BitCalculator/blob/main/Schematics/Multiplication_Schematic.png&raw=true)
 
-![alt text](https://github.com/ahmedibrahim404/3BitCalculator/blob/main/Schematics/Remainder_Schematics.png raw=true)
+![alt text](https://github.com/ahmedibrahim404/3BitCalculator/blob/main/Schematics/Remainder_Schematics.png&raw=true)
