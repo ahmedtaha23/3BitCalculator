@@ -2,7 +2,7 @@
 
 ## Description
 
-In this projects, we implemeneted (both software using logisim and hardware) an arithmetic unit that is capable of adding, subtracting and multiplying two signed numbers, and displays the result of the operation performed along with some additional flags regarding the operation and the result.
+In this projects, we implemeneted (both software using logisim and hardware) an arithmetic unit that is capable of adding, subtracting, multiplying and getting the modulo of two signed numbers, and displays the result of the operation performed along with some additional flags regarding the operation and the result.
 
 ## Screenshots
 
